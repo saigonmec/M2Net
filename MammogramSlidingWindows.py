@@ -2,7 +2,7 @@ import os
 import pandas as pd
 import cv2
 
-def crop_small_images_containing_bbox(csv_file_path,save_img_dir,img_dir):
+def MammogramSlidingWindows(csv_file_path,save_img_dir,img_dir):
     # Load the CSV file containing bounding box information
     df = pd.read_csv(csv_file_path)
     # Create new folder to write the images
