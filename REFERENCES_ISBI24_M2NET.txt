@@ -1,0 +1,15 @@
+REFERENCES FOR "M2Net: Two-stage Multi-label Breast Cancer Detection Networks"
+[1] Peter C Gøtzsche and Karsten Juhl Jørgensen, “Screen- ing for breast cancer with mammography,” Cochrane database of systematic reviews, , no. 6, 2013. 
+[2] C.J. D’Orsi, 2013 ACR BI-RADS Atlas: Breast Imag- ing Reporting and Data System, American College of Radiology, 2014. 
+[3] Ellen Shaw De Paredes, Atlas of mammography, Lip- pincott Williams & Wilkins, 2007. 
+[4] Hyo-Eun Kim, Hak Hee Kim, Boo-Kyung Han, Ki Hwan Kim, Kyunghwa Han, Hyeonseob Nam, Eun Hye Lee, and Eun-Kyung Kim, “Changes in can- cer detection and false-positive recall in mammography using artificial intelligence: a retrospective, multireader study,” The Lancet Digital Health, vol. 2, no. 3, pp. e138–e148, 2020. 
+[5] Thanh-Huy Nguyen, Quang Hien Kha, Thai Ngoc Toan Truong, Ba Thinh Lam, Ba Hung Ngo, Quang Vinh Dinh, and Nguyen Quoc Khanh Le, “Towards ro- bust natural-looking mammography lesion synthesis on ipsilateral dual-views breast cancer analysis,” arXiv preprint arXiv:2309.03506, 2023. 
+[6] Chien-Yao Wang, Alexey Bochkovskiy, and Hong- Yuan Mark Liao, “Yolov7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors,” in Proceedings of the IEEE/CVF Conference on Com- puter Vision and Pattern Recognition, 2023, pp. 7464– 7475. 
+[7] Shaoqing Ren, Kaiming He, Ross Girshick, and Jian Sun, “Faster r-cnn: Towards real-time object detection with region proposal networks,” Advances in neural in- formation processing systems, vol. 28, 2015. 
+[8] Rebecca Sawyer Lee, Francisco Gimenez, Assaf Hoogi, Kanae Kawai Miyake, Mia Gorovoy, and Daniel L Ru- bin, “A curated mammography data set for use in computer-aided detection and diagnosis research,” Sci- entific data, vol. 4, no. 1, pp. 1–9, 2017. 
+[9] Karen Simonyan and Andrew Zisserman, “Very deep convolutional networks for large-scale image recogni- tion,” arXiv preprint arXiv:1409.1556, 2014. 
+[10] Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun, “Deep residual learning for image recognition,” in IEEE Conf. Comput. Vis. Pattern Recog., 2016, p. 770–778. 
+[11] Saining Xie, Ross Girshick, Piotr Doll ́ar, Zhuowen Tu, and Kaiming He, “Aggregated residual transfor- mations for deep neural networks,” arXiv preprint arXiv:1611.05431, 2016. 
+[12] Sergey Zagoruyko and Nikos Komodakis, “Wide resid- ual networks,” CoRR, 2016. 
+[13] Jia Deng, Wei Dong, Richard Socher, Li-Jia Li, Kai Li, and Li Fei-Fei, “Imagenet: A large-scale hierarchical image database,” in IEEE Conf. Comput. Vis. Pattern Recog., 2009, p. 248–255. 
+[14] Kenneth Clark, Bruce Vendt, Kirk Smith, John Frey- mann, Justin Kirby, Paul Koppel, Stephen Moore, Stan- ley Phillips, David Maffitt, Michael Pringle, et al., “The cancer imaging archive (tcia): maintaining and operat- ing a public information repository,” Journal of digital imaging, vol. 26, pp. 1045–1057, 2013
